@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "No More YouTube Shorts Please",
+  "name": "Chrome Extension Boilerplate",
   "version": "1.0",
-  "description": "A Chrome extension that blocks YouTube shorts from appearing on your YouTube homepage.",
+  "description": "A Chrome extension boilerplate with Vite, TypeScript, and React.",
   "background": {
     "service_worker": "assets/background.js"
   },

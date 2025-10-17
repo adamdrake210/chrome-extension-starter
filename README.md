@@ -1,17 +1,10 @@
-# No More YouTube Shorts Please
+# Chrome Extension Boilerplate
 
-A Chrome extension that blocks YouTube Shorts from appearing on your YouTube homepage.
-
-## Tech Stack
-
-- **React** - UI framework
-- **TypeScript** - Type-safe JavaScript
-- **Vite** - Fast build tool and dev server
-- **pnpm** - Fast, disk space efficient package manager
+A Chrome extension boilerplate with Vite, TypeScript, and React.
 
 ## Prerequisites
 
-- Node.js v20 or higher
+- Node.js v22 or higher
 - pnpm v10 or higher
 
 ## Installation
