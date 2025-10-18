@@ -3,6 +3,8 @@ node_modules/
 .pnp
 .pnp.js
 
+# Zips
+zips/
 # Testing
 coverage/
 *.lcov
