@@ -1,5 +1,6 @@
 import { Box, Button, Title } from '@mantine/core';
 import { AppProviders } from './AppProviders';
+import { MyDetails } from '@/components/myDetails/MyDetails';
 
 export const App = () => {
   const onClick = () => {
@@ -13,6 +14,7 @@ export const App = () => {
           Title Here
         </Title>
         <Button onClick={onClick}>Click Me!</Button>
+        <MyDetails />
       </Box>
     </AppProviders>
   );

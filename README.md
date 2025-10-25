@@ -2,10 +2,25 @@
 
 A Chrome extension boilerplate with Vite, TypeScript, and React. It also uses Mantine components for the UI.
 
+## Specific to this project
+
+tbd
+
 ## Prerequisites
 
 - Node.js v22 or higher
 - pnpm v10 or higher
+
+## What's included
+
+- Vite
+- TypeScript
+- React
+- Mantine components
+- Tailwind CSS
+- Tabler icons
+- Magic UI
+- Shadcn UI
 
 ## Installation
 
